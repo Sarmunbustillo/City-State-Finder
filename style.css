@@ -3,8 +3,7 @@ html {
   font-family: 'helvetica neue';
   font-size: 20px;
   font-weight: 200;
-  background-image: url(./img/states.jpg);
-  object-fit: cover;
+  background: rgba(72, 147, 209, 0.918);
 }
 
 *,
@@ -49,7 +48,7 @@ input.search {
   background: white;
   list-style: none;
   border-bottom: 1px solid #d8d8d8;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.14);
+  box-shadow: 5px 5px 5px rgba(48, 47, 47, 0.274);
   margin: 0;
   padding: 20px;
   transition: background 0.2s;
@@ -73,5 +72,5 @@ span.population {
 }
 
 .hl {
-  background: #ffc600;
+  background: rgba(67, 170, 255, 0.918);
 }
